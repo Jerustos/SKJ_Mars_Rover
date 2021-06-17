@@ -1,0 +1,7 @@
+C:\Users\Sivu\Documents\Side Projects\Platform45\SKJ_Mars_Rover\SKJ_Mars_Rover\SKJ_Mars_Rover\bin\Debug\SKJ_Mars_Rover.exe.config
+C:\Users\Sivu\Documents\Side Projects\Platform45\SKJ_Mars_Rover\SKJ_Mars_Rover\SKJ_Mars_Rover\bin\Debug\SKJ_Mars_Rover.exe
+C:\Users\Sivu\Documents\Side Projects\Platform45\SKJ_Mars_Rover\SKJ_Mars_Rover\SKJ_Mars_Rover\bin\Debug\SKJ_Mars_Rover.pdb
+C:\Users\Sivu\Documents\Side Projects\Platform45\SKJ_Mars_Rover\SKJ_Mars_Rover\SKJ_Mars_Rover\obj\Debug\SKJ_Mars_Rover.csproj.AssemblyReference.cache
+C:\Users\Sivu\Documents\Side Projects\Platform45\SKJ_Mars_Rover\SKJ_Mars_Rover\SKJ_Mars_Rover\obj\Debug\SKJ_Mars_Rover.csproj.CoreCompileInputs.cache
+C:\Users\Sivu\Documents\Side Projects\Platform45\SKJ_Mars_Rover\SKJ_Mars_Rover\SKJ_Mars_Rover\obj\Debug\SKJ_Mars_Rover.exe
+C:\Users\Sivu\Documents\Side Projects\Platform45\SKJ_Mars_Rover\SKJ_Mars_Rover\SKJ_Mars_Rover\obj\Debug\SKJ_Mars_Rover.pdb
